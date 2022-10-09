@@ -13,3 +13,10 @@ Our product is focused on providing augmented reality (AR) for surgeons to visua
 4. Christa Huang,300297610, GitHub: vinfea, https://github.com/vinfea
 5. Fikunmi Olusanya,	          GitHub: morantjr, https://github.com/morantjr
 6. Penghao Yuan,		            GitHub: PenghaoYuan2022, http://github.com/PenghaoYuan2022
+
+**GitHub Organization/Repository Links**
+1. https://github.com/0lympusTechnologies
+2. https://github.com/0lympusTechnologies/0lympusTechnologies.github.io
+
+**GitHub Pages Link**
+	https://0lympustechnologies.github.io/product-page
