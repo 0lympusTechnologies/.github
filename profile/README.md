@@ -1,12 +1,14 @@
-## Hi there 👋
-test
-<!--
+# 0lympus Technologies
+## Zeus, a Lightning Fast Augmented Reality Product
+### Product Description
+<p>
+Our product is focused on providing augmented reality (AR) for surgeons to visualize more data during case examinations and surgeries. The AR would overlay diagnostic data over a patient during surgery to allow a surgeon to better predict the next steps and surgical outcomes. In addition, we may consider combining this technology with streaming over 5G networks to allow for highly renowned surgeons to conduct surgery remotely by using the AR/VR model connected to a DaVinci Robot that resides in the operating room.
+</p>
+👩‍💻 Members
+1. Devon Knight, 300325369, GitHub: Devcon324, https://github.com/Devcon324
+2. Jean-Marc N’guessan, 300289497 = GitHub: JMarco53, https://github.com/JMarco53
+3. Bill Ngo, 300307777, GitHub: TheUncleLake, https://github.com/TheUncleLake
+4. Christa Huang,               GitHub: vinfea, https://github.com/vinfea
+5. Fikunmi Olusanya,	          GitHub: morantjr, https://github.com/morantjr
+6. Penghao Yuan,		            GitHub: PenghaoYuan2022, http://github.com/PenghaoYuan2022
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
